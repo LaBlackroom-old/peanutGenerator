@@ -3,7 +3,7 @@
 
 <section id="sf_admin_container">
   <header>
-    <h1>[?php echo <?php echo $this->getI18NString('new.title') ?> ?]</h1>
+    <h1>[?php echo <?php echo $this->getI18NString('edit.title') ?> ?]</h1>
   </header>
   
   [?php include_partial('<?php echo $this->getModuleName() ?>/flashes') ?]
